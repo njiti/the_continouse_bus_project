@@ -25,9 +25,8 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<h3>About Project :</h3>
+<h3>About Project</h3>
 The idea behind the project is to allow for user to buy a bus ticket more conviniently.
-This is by looking at diffarent situation in life like: 
 * Buying a ticket for a kid or that girl that yur not sure she will actually come over.
 * You can wallet someone money that they can only use for transport.
 * Make it easier for conductors to be able to make sure that everyones payed before time.
@@ -35,7 +34,7 @@ This is by looking at diffarent situation in life like:
 * Makes it harder to overload
 * Less noise as matatus dont have to hoot to know if some one needs a car
 
-Here's why:
+This is by looking at diffarent situation in life like:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
