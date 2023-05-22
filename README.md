@@ -25,12 +25,12 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<h3>About Project</h3>
+<h3>About Project :</h3>
 The idea behind the project is to allow for user to buy a bus ticket more conviniently.
 This is by looking at diffarent situation in life like: 
-*Buying a ticket for a kid or that girl that yur not sure she will actually come over.
-*You can wallet someone money that they can only use for transport.
-*Make it easier for conductors to be able to make sure that everyones payed before time.
-*Makes it easier to track income from the vehicles.
-*Makes it harder to overload
-*Less noise as matatus dont have to hoot to know if some one needs a car
+* Buying a ticket for a kid or that girl that yur not sure she will actually come over.
+* You can wallet someone money that they can only use for transport.
+* Make it easier for conductors to be able to make sure that everyones payed before time.
+* Makes it easier to track income from the vehicles.
+* Makes it harder to overload
+* Less noise as matatus dont have to hoot to know if some one needs a car
