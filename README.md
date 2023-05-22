@@ -27,7 +27,7 @@
 </details>
 <h3>About Project</h3>
 The idea behind the project is to allow for user to buy a bus ticket more conviniently.
-<p></p>
+<h4>reasons</h4>
 This is by looking at diffarent situation in life like:
 *  Buying a ticket for a kid or that girl that yur not sure she will actually come over.
 * You can wallet someone money that they can only use for transport.
