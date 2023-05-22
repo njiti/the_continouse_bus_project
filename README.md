@@ -34,3 +34,8 @@ This is by looking at diffarent situation in life like:
 * Makes it easier to track income from the vehicles.
 * Makes it harder to overload
 * Less noise as matatus dont have to hoot to know if some one needs a car
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
